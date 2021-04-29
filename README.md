@@ -1,6 +1,4 @@
-Seeing the world through a designer and soon a developer's point of view.
-
-A UI/UX Designer but I'm currently learning web development to further my studies.
+Full stack designer and developer.
 
 
 
